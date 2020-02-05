@@ -5,6 +5,9 @@
   "license": "ISC",
   "author": "bamboosted/beeinger",
   "name": "create-lib-react",
+  "scripts": {
+    "test": "echo \"No test specified\""
+  },
   "repository": {
     "type": "git",
     "url": "beeinger/create-lib-react"
