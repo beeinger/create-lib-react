@@ -4,7 +4,8 @@
   "module": "build/index.es.js",
   "jsnext:main": "build/index.es.js",
   "scripts": {
-    "build": "rollup -c"
+    "build": "rollup -c",
+    "test": "echo \"No test specified\""
   },
   "keywords": [],
   "license": "ISC",
